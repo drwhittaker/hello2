@@ -6,3 +6,4 @@ dog = 'cat'
 for n in dog:
   print(n)
 print("tried again")
+print("wonder if this will ever amount to anything more than a hobby?")
